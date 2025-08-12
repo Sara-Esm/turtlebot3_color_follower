@@ -1,0 +1,17 @@
+# ROS / colcon / python
+build/
+install/
+log/
+*.pyc
+__pycache__/
+*.egg-info
+*.egg
+dist/
+*.so
+*.log
+
+# OS / Editor
+.DS_Store
+.vscode/
+.idea/
+*.swp
