@@ -3,6 +3,8 @@
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
 [![ROS](https://img.shields.io/badge/ROS-2%20Humble-brightgreen)](https://docs.ros.org/en/humble/)
 [![Python](https://img.shields.io/badge/Python-3.10-blue)](https://www.python.org/)
+[![Gazebo](https://img.shields.io/badge/Gazebo-11-orange)](https://gazebosim.org/)
+[![Colcon](https://img.shields.io/badge/Build-Colcon-blue)](https://colcon.readthedocs.io/)
 
 ---
 
@@ -142,6 +144,17 @@ turtlebot3_color_detector/
 - Practical robotics control via velocity command publishing.
 - Proficient use of RQt and RViz2 for runtime debugging and visualization.
 - Simulation experience with Gazebo and cross-platform development on WSL2 + WSLg.
+
+
+---
+
+
+## 🔗 Useful Links
+
+- [ROS 2 Humble](https://docs.ros.org/en/humble/)
+- [TurtleBot3 Official](https://emanual.robotis.com/docs/en/platform/turtlebot3/)
+- [Gazebo Simulator](https://gazebosim.org/)
+- [OpenCV](https://opencv.org/)
 
 ---
 
