@@ -68,7 +68,7 @@ Launch the simulation environment and color follower node:
 # Set TurtleBot3 model environment variable
 export TURTLEBOT3_MODEL=waffle_pi
 
-# Source ROS 2 environment (if not already done)
+# Source ROS 2 environment
 source /opt/ros/humble/setup.bash
 
 # Launch Gazebo house world with TurtleBot3
