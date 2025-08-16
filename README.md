@@ -98,7 +98,7 @@ rqt_image_view /camera/image_raw
 # Visualize ROS 2 node graph (nodes and topics)
 ros2 run rqt_graph rqt_graph
 
-# Open RViz2 for sensor and robot visualization
+# RViz2 for sensor and robot visualization
 ros2 launch turtlebot3_bringup rviz2.launch.py
 
 # Monitor camera topic publishing rate
