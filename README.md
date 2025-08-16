@@ -99,7 +99,7 @@ rqt_image_view /camera/image_raw
 ros2 run rqt_graph rqt_graph
 
 # Open RViz2 for sensor and robot visualization
-rviz2
+ros2 launch turtlebot3_bringup rviz2.launch.py
 
 # Monitor camera topic publishing rate
 ros2 topic hz /camera/image_raw
