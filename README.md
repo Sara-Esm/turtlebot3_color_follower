@@ -1,4 +1,4 @@
-# TurtleBot3 Color Follower with ROS 2 and OpenCV
+# TurtleBot3 Semi-Autonomous Color Follower with ROS 2 and OpenCV
 
 ![ROS2](https://img.shields.io/badge/ROS2-Humble-blue)
 ![Python](https://img.shields.io/badge/Python-3.10-yellow)
@@ -10,11 +10,11 @@
 
 # Overview
 
-This project demonstrates a TurtleBot3 robot detecting and following a red object using ROS 2 Humble, OpenCV, Gazebo simulation, and Python.
+This project demonstrates a semi-autonomous TurtleBot3 robot behavior using ROS 2 Humble, OpenCV, Gazebo, and Python.
 
-The robot processes live camera images, detects a target color using HSV filtering, calculates the object position in the image frame, and publishes velocity commands to guide the robot toward the detected object.
+The robot is manually driven through a simulated house environment. While moving, it continuously processes the camera stream to detect a red object. When the red object appears in view, the robot switches into an autonomous following behavior by aligning with the object and publishing velocity commands.
 
-This project focuses on robot perception, computer vision, and reactive robot control.
+This project focuses on perception-triggered robot control, computer vision, and reactive behavior.
 
 ---
 
