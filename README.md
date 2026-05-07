@@ -14,7 +14,7 @@ This project demonstrates a TurtleBot3 robot detecting and following a red objec
 
 The robot processes live camera images, detects a target color using HSV filtering, calculates the object position in the image frame, and publishes velocity commands to guide the robot toward the detected object.
 
-This project is separate from my autonomous warehouse navigation project. While the warehouse project focuses on Nav2, localization, and path planning, this project focuses on robot perception, computer vision, and reactive robot control.
+This project focuses on robot perception, computer vision, and reactive robot control.
 
 ---
 
