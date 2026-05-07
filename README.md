@@ -53,7 +53,7 @@ The system demonstrates:
 | RQt Image View | Camera stream debugging |
 | RViz2 | Robot and sensor visualization |
 | Colcon | ROS 2 build system |
-| Git & GitHub | Version control and portfolio |
+| Git & GitHub | Version control |
 
 ---
 
@@ -273,13 +273,12 @@ This project involved solving several real robotics and computer vision integrat
 - Debugging `/cmd_vel` publishing behavior
 - Testing perception behavior in simulation
 - Running ROS 2 Humble with Gazebo inside WSL2 + WSLg
-- Cleaning and organizing the repository for GitHub portfolio use
 
 ---
 
 # Project Preview
 
-Screenshots and demo visuals will be added here:
+Screenshots##
 
 - Gazebo TurtleBot3 simulation
 - Camera stream with red object detection
@@ -322,21 +321,6 @@ This project provided hands-on experience with:
 
 ---
 
-# Relationship to Other Portfolio Projects
-
-This project focuses on robot perception and reactive control.
-
-It complements my autonomous warehouse navigation project, which focuses on Nav2, AMCL localization, global path planning, and multi-goal autonomous navigation.
-
-Together, these projects demonstrate two important areas of robotics engineering:
-
-| Project | Main Focus |
-|---|---|
-| TurtleBot3 Color Follower | Perception + control |
-| Autonomous Warehouse Navigation | Navigation + localization |
-
----
-
 # Future Improvements
 
 Potential future upgrades:
@@ -344,11 +328,6 @@ Potential future upgrades:
 - Add support for multiple target colors
 - Add dynamic parameter tuning for HSV thresholds
 - Add distance estimation from object size
-- Add smoother PID-based following control
-- Add object search behavior when target is lost
-- Add camera visualization overlay
-- Add launch file for full simulation + follower system
-- Add demo video and GIFs
 
 ---
 
