@@ -22,8 +22,6 @@ This project focuses on robot perception, computer vision, and reactive robot co
 
 The goal of this project was to build a practical perception-based robotic behavior where a mobile robot can use camera input to understand its environment and react autonomously.
 
-This project was developed as part of a robotics engineering portfolio focused on ROS 2, computer vision, autonomous mobile robots, and intelligent robotic systems.
-
 ---
 
 # Demo Features
